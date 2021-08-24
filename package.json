@@ -1,7 +1,6 @@
 {
   "name": "nasa",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +17,15 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.13.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj235711/nasa.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/aj235711/nasa/issues"
+  },
+  "homepage": "https://github.com/aj235711/nasa#readme",
+  "description": ""
 }
